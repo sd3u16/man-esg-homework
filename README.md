@@ -31,3 +31,9 @@ This application displays ESG scores for different companies. It supports:
 1. Install dependencies: `npm install` or `yarn install`
 2. Start the development server: `npm start` or `yarn start`
 3. Open `http://localhost:3000` in your browser.
+
+
+## Deploying the project online for demonstration
+To make things easy, I have deployed the project on Netlify and it can be accessed via link below:
+
+https://esg-homework.netlify.app/
